@@ -1,0 +1,43 @@
+header{
+    background-color: whitesmoke;
+        height: 5vh;
+}
+ul li{
+    font-family: 'Noto Serif', serif !important;
+    color: black !important;
+}
+
+#main{
+    height: 100vh;
+    width: 100%;
+    background-image: url("image/main.jpg");
+    background-position:inherit;
+    background-repeat: no-repeat;
+    border: yellow;
+    text-align: center;
+    padding: 10% 0% 0% 30%;
+}
+h2,h6{
+    font-family: 'Noto Serif', serif;
+    color: whitesmoke;
+    
+}
+button{
+    margin-top: 2vh;
+    border:blanchedalmond;
+    border-radius: 5%;
+    padding: 1%;
+    font-family: 'Noto Serif', serif;
+ 
+}
+button:hover{
+    border: chartreuse;
+}
+footer{
+    display: inline;
+}
+img{
+    margin-top: 30%;
+    height: 50px;
+    width: 60px;
+}
